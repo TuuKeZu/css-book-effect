@@ -1,0 +1,95 @@
+{
+    "pages": [
+        {
+            "id": "table-of-contents",
+            "title": "Table of contents",
+            "sections": [
+                {
+                    "title": "Part 1 - lorem Ipsum",
+                    "content": [
+                        "Page 1",
+                        "Page 2"
+                    ]
+                },
+                {
+                    "title": "Part 2 - lorem Ipsum v2",
+                    "content": [
+                        "Page 3"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "This is the page 1",
+            "sections": [
+                {
+                    "title": "this is a subtitle for a section",
+                    "content": [
+                        "this is the text-content of that section"
+                    ]
+                },
+                {
+                    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ],
+                    "image": "./assets/img/placeholder.png"
+                },
+                {
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ]
+                },
+                {
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "This is the page 2",
+            "sections": [
+                {
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ]
+                },
+                {
+                    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ]
+                },
+                {
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ],
+                    "image": "./assets/img/placeholder.png"
+                }
+            ]
+        },
+        {
+            "title": "This is the page 3",
+            "sections": [
+                {
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ],
+                    "image": "./assets/img/placeholder.png"
+                },
+                {
+                    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ]
+                },
+                {
+                    "content": [
+                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                    ]
+                }
+            ]
+        }
+    ]
+}
