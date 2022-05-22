@@ -2,91 +2,1210 @@
     "pages": [
         {
             "id": "table-of-contents",
-            "title": "Table of contents",
+            "title": "Sisällysluettelo",
+            "page": 1,
             "sections": [
                 {
-                    "title": "Part 1 - lorem Ipsum",
+                    "title": "Etappi 1 - Uskontojen historia",
                     "content": [
-                        "Page 1",
-                        "Page 2"
+                        "Kristiusko [2 - 4]",
+                        "Juutalaisuus [5 - 6]",
+                        "Islam [7]",
+                        "Tietoisku - Miksi Jerusalem on pyhä? [8]"
                     ]
                 },
                 {
-                    "title": "Part 2 - lorem Ipsum v2",
+                    "title": "Etappi 2 - Pyhät kirjat",
                     "content": [
-                        "Page 3"
+                        "Kristiusko [10]",
+                        "Juutalaisuus [11]",
+                        "Islam [12]",
+                        "Tietoisku - Yhteisiä piirteitä [13]"
+                    ]
+                },
+                {
+                    "title": "Etappi 3 - Jumala",
+                    "content": [
+                        "Kristiusko [15]",
+                        "Juutalaisuus [16]",
+                        "Islam [17]"
+                    ]
+                },
+                {
+                    "title": "Etappi 4 - Oppi elämänkysymyksiin",
+                    "content": [
+                        "Kristiusko [19]",
+                        "Juutalaisuus [20]",
+                        "Islam [21]",
+                        "Tietoisku - Uskontojen antamia ohjeita"
+                    ]
+                },
+                {
+                    "title": "Etappi 5 - Uskonto yksilöiden elämässä",
+                    "content": [
+                        "Kristiusko [24 - 26]",
+                        "Juutalaisuus [27]",
+                        "Islam [28]"
+                    ]
+                },
+                {
+                    "title": "Etappi 6 - Aineellinen ulottuvuus",
+                    "content": [
+                        "Kristiusko [30]",
+                        "Juutalaisuus [31 - 32]",
+                        "Islam [33]"
+                    ]
+                },
+                {
+                    "title": "Etappi 7 - Muuta tärkeää",
+                    "content": [
+                        "Kristiusko [30]",
+                        "Juutalaisuus [31 - 32]",
+                        "Islam [33]"
                     ]
                 }
             ]
         },
         {
-            "title": "This is the page 1",
+            "id": "page-breaker",
+            "title": "Ensimmäinen etappi",
+            "page": 2,
             "sections": [
                 {
-                    "title": "this is a subtitle for a section",
+                    "title": "Uskontojen historia"
+                }
+            ]
+        },
+        {
+            "id": "dialogue",
+            "title": "Alkukappale",
+            "page": 3,
+            "sections": [
+                {
                     "content": [
-                        "this is the text-content of that section"
+                        "Turvavyö-valo syttyy ja palaan istumaan paikalleni. Kapteeni kuuluttaa ”Turbulenssia tulossa pitäkää koirat kurissa..” Istuessani huomaan vieressäni istuvan henkilön ja päätän aloittaa keskustelun: "
                     ]
                 },
                 {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                    "title": "Minä",
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
-                    ],
-                    "image": "./assets/img/placeholder.png"
-                },
-                {
-                    "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                        "Hei, miksikäs sä haluat matkustaa Jerusalemiin."
                     ]
                 },
                 {
+                    "title": "Benjamin",
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                        "Käyn viettämässä lomaa perheeni kanssa, entäs sinä hyvä herra."
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "Tulin tänne tutkimaan Jerusalemin uskontoja. Et sattuisi tietämään niistä mitään?"
+                    ]
+                },
+                {
+                    "title": "Benjamin",
+                    "content": [
+                        "Itse asiassa kuulun itse Kristinuskoon, voisin kertoa sinulle hieman sen taustaa jos halajat."
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "Tottakai"
+                    ]
+                },
+                {
+                    "title": "Benjamin",
+                    "content": [
+                        "Kristinusko syntyi Jeesus Nasaretilaisen opetusten, ristinkuoleman ja ylösnousemuksen seurauksena seuraajien toimesta noin 30–50-luvuilla Palestiinassa. Se syntyi juutalaisuuden sisällä ja on ollut alusta lähtien lähetysuskontona. Palestiinasta se levisi ensimmäisten vuosisatojen aikana koko Rooman valtakunnan alueelle sekä joihinkin Aasian maihin asti. "
                     ]
                 }
             ]
         },
         {
-            "title": "This is the page 2",
+            "id": "dialogue",
+            "title": "Kristinusko",
+            "page": 4,
             "sections": [
                 {
+                    "title": "Benjamin",
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                        "Historian aikana kristinusko on jakautunut moneen suuntaukseen eli kirkkokuntaan. Näistä merkittävimpiä ovat roomalaiskatolinen kirkko, ortodoksiset kirkot ja protestanttisuus. Kristinuskon jakautuminen roomalaiskatoliseen ja ortodoksiseen kirkkoon kesti pitkään. "
                     ]
                 },
                 {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                    "title": "Benjamin",
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                        "Tärkeimpiä tätä prosessia vauhdittavia tapahtumia olivat Rooman valtakunnan hajoaminen Länneksi ja idäksi 300-luvun lopulla, johtajuuskiistasta johtuva suuri skisma vuonna 1054 sekä reformaatio 1500-luvulla. Rooman valtakunnan jakautuminen vauhditti lännen ja idän kristillisyyden perinteiden kehittymistä erilaisiksi. Johtajuuskiistan seurauksena paavi ja patriarkka julistivat toisensa kirkonkiroukseen. Reformaatiossa Saksalainen pappi Martti Luther kritisoi katolisen kirkon oppeja ja käytäntöjä ja vaati uudistusta, mutta Luther kuitenkin erotettiin katolisesta kirkosta. Apostolien kokouksessa vuoden 50 tienoilla päätettiin luopua Tooran rituaalikäskyistä. "
+                    ]
+                },
+                {
+                    "title": "Benjamin",
+                    "content": [
+                        "Alussa pyhänä tekstinä oli juutalaisten heprealainen Raamattu ja sen kreikankielinen käännös, mutta nykyään pyhänä kirjana on Uudesta ja Vanhasta testamentista koostuva Raamattu. "
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "Kiitos tästä, muistan tämän"
                     ]
                 },
                 {
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
-                    ],
-                    "image": "./assets/img/placeholder.png"
+                        "Kone laskeutuu turvallisesti ja toivotan Benjaminille onnea elämäänsä."
+                    ]
                 }
             ]
         },
         {
-            "title": "This is the page 3",
+            "id": "dialogue",
+            "title": "Juutalaisuus",
+            "page": 5,
             "sections": [
                 {
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
-                    ],
-                    "image": "./assets/img/placeholder.png"
+                        "Istuskelen odottamassa matkatavaroitani, kunnes huomaan silmäkulmassani henkilön lähestyvän minua. En kiinnitä henkilöön paljoakaan huomiota, vaan koitan keskittyä liukuhihnaan."
+                    ]
                 },
                 {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                    "title": "Damien",
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                        "Hei! Olet kuulemma kiinnostunut uskonnoista. Olisiko teillä hetki aikaa puhua Jeesuksesta?"
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "Hei häh mikä juttu? Mistä sä tiedät?"
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Satuin kuulemaan, kun keskustelitte Benjaminin kanssa koneessa ja ajattelin valistaa sinua myös Juutalaisuudesta"
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "Ai niinkö? Noh mikä ettei, mutta voisitko olla ripeä en halua missata tavaroitani"
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Selkkis! Eli siis perinteisen uskon mukaan Juutalaiset polveutuvat noin 4000 vuotta sitten eläneestä patriarkka eli kantaisä Abrahamista. "
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Juutalaisten heprealaisessa Raamatussa kerrotaan kuinka Abraham teki sopimuksen Jumalan (Jahven) kanssa. Sopimuksessa Abrahamin piti muuttaa pois kotoaan Irakista Jumalan osoittamaan maahan. Vastineeksi Jumala lupasi Abrahamille, että tästä polveutuu suuri kansa, jonka kautta koko maailma tulee siunatuksi ja joka saa kodikseen luvatun Kanaanin maan. Vähän ajan kuluttua Abraham sai lapsen Iisakin, joka itsekin sai kaksi lasta Jaakobin ja Esaun."
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Jakobin kasvettua hän sai 12 lasta, jotka muuttivat perheineen Egyptiin, jossa he joutuivat orjuutetuiksi. Tästä alkaa Mooseksen tarina, jonka varmaankin jo tiedätkin. Tätä juutalaisten pelastusta kutsutaan nimellä exodus."
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Lopulta valitun kansan 40 vuoden vaellus päättyi Kanaalin valloitukseen."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dialogue",
+            "title": "Juutalaisuus",
+            "page": 6,
+            "sections": [
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Israelin kansan uskonto muuttui varsinaisesti juutalaisuudeksi, kun juutalaiset irroittautuivat temppeleistä ja niiden rituaaleista 500-luvun aikana eKr. Tämä muutos lähti käyntiin  kun Jerusalemin temppeli tuhottiin ja suuri osa Juudaan kansasta joutui pakkosiirtolaisuuteen eli eksiliin. Juutalaiset alkoivat tähän aikaan omaksua, että temppelit eivät olleet se ainoa paikka, missä Jumala on läsnä (kansan keskellä mukana meiningissä). Tästä kehittyi uusi uskonnonharjoitusten tapa, joka keskittyi synagogiin ja Tooran lukemiseen ja tulkintaan."
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Messiasodotus alkoi niinä aikoina, jolloin juutalaiset olivat rakentaneet toisen temppelin. Messiasodotus alkoi, sillä luvatun maan herruutta ei enää saavutettu kuin pieniksi ajoiksi kerrallaan (kreikkalaisten ja roomalaisten takia). Juutalaiset odottivat messiasta, voideltua, joka tulisi ja vapauttaisi valitun kansan sorrosta ja toisi rauhan"
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Ja sitten tossa 100-luvun paikkeilla Tanakiin eli Heprealainen Raamattuun kuuluvien kirjojen kokoelma eli Kaanon vakiintui seurakuntien käyttöön. Samaan aikaan Tooraa alettiin tutkimaan yhdessä rabbien eli Tooran asiantuntijoiden kanssa synagogissa. Jaa sitten näiden rabbien tekemien Tooran tulkintojen pohjalta koottiin Talmud. Talmud on tavallaan suullinen Toora, mutta se on silti juutalaisuuden toiseksi pyhin kirjoituskokoelma."
+                    ]
+                },
+                {
+                    "title": "Damien",
+                    "content": [
+                        "Ja tossa 1800-luvulla syntyi juutalaisten hengellinen sekä poliittinen liike, jonka avulla pyrittiin perustaa juutalaisille valtio eli luvattu maa. Tämän liikkeen seurauksena Israel sai syntynsä. Valitettavasti Israelin itsenäistyttyä syntyi Lähi-idän kriisi, mutta oletkin jo varmaan siitäkin kuullut."
                     ]
                 },
                 {
                     "content": [
-                        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quas nisi provident veritatis,voluptatibus illum ratione aspernatur labore, dolores maxime nam aliquid voluptatem accusantiumnequeminus quam amet veniam mollitia."
+                        "Päätin alkaa hivuttautua hihnaa kohti ja napata matkatavarani. Hän olisi varmaan jatkanut ikuisuuden. En kuitenkaan halunnut olla töykeä, joten kerroin olevani kiireessä ja hyvästelin hänet."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dialogue",
+            "title": "Islam",
+            "page": 7,
+            "sections": [
+                {
+                    "content": [
+                        "Seuraavana kohteena on hotelli. Hotellille on kyllä liian pitkä matka, joten päätin ottaa taksin."
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "Tervehdys! King David hotellille kiitos."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "Vai että King David hotelli… Sehän on sieltä kalliimmasta päästä eikö?"
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "No joo. Päätin sijoittaa tähän matkaan kunnolla, sillä halusin saada parhaimman elämyksen. Et muuten sattuisi tietämään mitään Islamista? Se on ainut josta en ole vielä kuullut."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "Kysytkin vielä. Muistan koko tarinan kuin oman kissani synttärit."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "Muhammed syntyy 600-luvun niemimaalla, jääden orvoksi ja asuen lapsuuden vuotensa hänen iso isän ja sedän kanssa. Vaikeasta alustaan huolimatta Muhammed nai rikkaan naisen ja viettää oikein korkeatasoista elämään. 40v iässä Muhammed sitten kokee uskonnollisen heräämisen, ja päättää ryhtyä saarnaajaksi. Itse Jumalan uskotaan valinneen muhammedin profeetaksi Hiran vuorella, ja seuraavan 23v ajan Muhammed kokee ilmestymisiä enkeli Gabrielilta. Näiden ilmestysten pohjalta syntyy Islamin pyhä kirja Koraani."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "Muhammed aloittaa julistustyön Mekasta. Uuteen uskontoon kuitenkin suhtaudutaan varsin negatiivisesti, erityisesti Mekan ylemmistä ei ole järin innoissaan tästä. Tämä ei kuitenkaan Muhammedia haittaa, sillä hyvin pian häntä pyydetään ryhtymään Medianan hallitsijaksi. "
+                    ]
+                },
+                {
+                    "title": "Minä",
+                    "content": [
+                        "Eikös Islamilainen ajanlasku ala näihin aikoihin?"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Islam jatkuu",
+            "id": "dialogue",
+            "page": 8,
+            "sections": [
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "kyllä, Tässä vaiheessa Islamilainen ajanlasku alkaa, ja Muhammedin seuraajia aletaan nimittää muslimeiksi. Näihin aikoihin koraanissa myös käsitellään yhteiskunnallisia asioita. Osaa tämän ajan lainsäädännöistä sovelletaan vielä tänä päivänäkin."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "Tässä vaiheessa tilanne Mekon kanssa kärjistyy, jonka seurauksena muslimit ja Mekan polyteistisiin jumaliin uskovat päätyvät aseelliseen konfliktiin. Konflikti päättyy muslimien voittoon vuonna  603. Sodan seurauksena kaikki polyteististen uskontojen patsaat tuhotaan, ja jäljelle jätetään vain Kaaban kivi. Mekasta tulee nyt Muslimien uusi pyhin kaupunki."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "Muhammadin elämän viimeisten vuosien aikana Islaminuskon valta on levinnyt koko arabian niemimaalle, eikä leviämiselle näytä olevan loppua. Näiltä sotaisilta ajoilta jäävät koraaniin kohdat, joissa kehotetaan sotaan jihadiin uskomattomia vastaan."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "Muhammedin kuoltua, Muslimit kohtaavat ongelman. “Kenestä seuraava johtaja?”. Asiasta ei päästä yhteisymmärrykseen, ja Islam jakautuu nyt kahtia. Sunnalaisuuden mukaan valta kuuluu Muhammedin lähipiiriin kuuluvalle Abi Talille, kun taas Shiialaisuuden mukaan valta kuuluu Muhammedin sukulaiselle, eli tämän serkulle ja vävylle. Kahden haaran välille muodostuu muitakin kulttuurillisia eroavaisuuksia, ja molemmat sivuhaarat ovat vieläkin olemassa."
+                    ]
+                },
+                {
+                    "title": "Alexius",
+                    "content": [
+                        "1700-luvulla Islamin hallitsema alue ulottuu idän Pakistanista kokonaan lännen Portugaliin. Muslimit toimivat myös hyvin keskeisessä asemassa antiikin sekä valistuksen aikaan, tehden läpimurtoja luonnontieteiden osa-alueilla."
+                    ]
+                },
+                {
+                    "content": [
+                        "Päästyäni hotellille menin suoraan huoneeseeni ja otin päikkärit."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fun-fact",
+            "title": "Miksi Jerusalem on pyhä paikka kaikille uskonnoille?",
+            "page": 9,
+            "sections": [
+                {
+                    "title": "Juutalaisuus",
+                    "content": [
+                        "Juutalaisille Jerusalemista löytyy pyhä temppeli. Temppelivuorella oli Salomonin rakennuttama pyhä temppeli, joka on juutalaisille erittäin tärkeä."
+                    ]
+                },
+                {
+                    "title": "Kristinusko",
+                    "content": [
+                        "Jeesus eli viimeisen viikkonsa Jerusalemissa ja kuoli siellä Golgatan mäellä. Jerusalemissa  myös sijaitsee oletettu Jeesuksen hauta. Ensimmäinen kristillinen seurakunta syntyi Jerusalemissa. "
+                    ]
+                },
+                {
+                    "title": "Islam",
+                    "content": [
+                        "Muslimit uskovat Muhammedin nousseen taivaaseen Jerusalemissa. Jerusalemissa on myös muslimeille tärkeät Al-Aqsan moskeija ja Kalliomoskeija. Jerusalem on muslimien kolmanneksi tärkein pyhiinvaelluskohde Mekan ja Medinan jälkeen."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "page-breaker",
+            "title": "Toinen etappi",
+            "page": 10,
+            "sections": [
+                {
+                    "title": "Pyhät kirjat"
+                }
+            ]
+        },
+        {
+            "title": "Raamattu",
+            "page": 11,
+            "sections": [
+                {
+                    "content": [
+                        "Kristittyjen pyhä kirja raamattu on kaksiosainen kirjojen kokoelma. Se koostuu Uudesta ja Vanhasta testamentista. Vanha testamentti on sisällöltään sama kuin juutalaisten Tanak eli juutalaisten heprealainen Raamattu. Uuden testamentin merkittävä osa muodostuu Paavalin kirjeistä ja se on ainoastaan kristittyjen käytössä eikä sisälly juutalaisten pyhiin kirjoituksiin."
+                    ]
+                },
+                {
+                    "content": [
+                        "Sana testamentti tarkoittaa liittoa eli sopimusta kahden osapuolen välillä. Kristinuskossa ajatellaan, että Jumala on luonut yhteyden ihmisiin solmimalla heidän kanssa liittoja. Evankeliumeiksi alettiin kutsua tekstejä, jotka kirjoitettiin suullisena perimätietona Jeesuksen opetuksista ja elämästä, kun Jeesuksen silminnäkijät alkoivat vanheta. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Raamatun syntyprosessiin meni yli tuhat vuotta ennen kuin se muotoutui siihen muotoon, jossa se nyt tunnetaan. Kristinuskossa kanonisointi viittaa ensisijaisesti prosessiin, jossa lopullisesti määritellään mitkä kirjat kuuluvat Raamatun pyhien kirjojen kokoelmaan. Uuden testamentin kaanon eli luettelo kirjoista muodostuu 27 kirjasta, jotka hyväksyttiin ohjeellisiksi ja pyhiksi, ja ne ovat kaikille kristityille samat. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Raamattu on käännetty useammalle kielelle kuin mikään muu kirja. Raamattua voi nykyään lukea jo 2000 kielellä. Juutalainen raamattu Tanakh, kirjoitettiin alun perin hepreaksi lukuun ottamatta joitakin arameaksi kirjoitettuja osia. "
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Tanak",
+            "page": 12,
+            "sections": [
+                {
+                    "content": [
+                        "Raamattu on myös juutalaisuudessa korkeassa arvossa pidetty kirja. Juutalaisuudessa raamattua nimetään sen heprealaisilla nimellä Tanak. Tämä heprealainen raamattu kertoo uskosta Jumalaan sekä Israelin kansan historiasta."
+                    ]
+                },
+                {
+                    "content": [
+                        "Tanak sisältää yhteensä 24 kirjaa ja sen voi jakaa kolmeen pääosaan: Tooraan, profeettoihin ja kirjoituksiin. Tanakin sisältämät kertomukset kattavat lähes saman tarinan, kuin kristinuskon Vanha testamentti. Tooran kolmea osaa kuvataan itse Tooran nimessä olevien konsonanttien määrä: Toora (“Opetus”), Nevi’im (“profeetat”) ja Ketuvim (“Kirjoitukset”)."
+                    ]
+                },
+                {
+                    "content": [
+                        "Tanakia ei ole kirjoitettu yhdellä kertaa, vaan siihen on lisätty tekstejä vuosisatojen kuluessa. Ensimmäiseksi vakiintuneeksi Tanakin tekstiksi tuli Toora noin 300-200 eaa. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Tanakin kanonisoinnin jälkeen sitä kopioitiin juuri sellaisena kuin se oli kielioppivirheineen ja väärin päin kääntyneiden kirjaimien kanssa. Kaikki kopiot, jotka poikkesivat vähänkin tekstistä poltettiin."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Koraani",
+            "page": 13,
+            "sections": [
+                {
+                    "content": [
+                        "Koraanin uskotaan olevan itse Jumalan kirjoittama teos, jonka enkeli Gabriel toi Muhammedille ilmestymisten aikaan. Muhammedin uskotaan olevan kirjoitus- ja lukutaidoton, ja kirjaa pidetäänkin jumalallisena ihmeenä. Nykyisen historian tutkimuksen näkökulmasta taas uskotaan, että koraani on kirjoitettu lyhyesti Muhammedin kuoleman jälkeen 600-luvulla."
+                    ]
+                },
+                {
+                    "content": [
+                        "Koraanin alkuperäinen kieli on arabia. Koraania on muiden uskonnollisten kirjojen tavoin käännetty useille eri kielille, mutta kirjan jumalallisen alkuperän vuoksi käännöksiä Koraanista pidetään enemmänkin selitysteoksina. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Koraanissa kerrotaan Muhammedin kokemista ilmestyksistä, ja se koostuu 114 luvusta eli suurasta. Koraanin varsinainen sisältö koostuu Enkeli Gabrielin sanomasta Muhammedille tämän ilmestysten aikana, mutta koraanista löytyy myös kristinuskon raamatusta tuttua sisältöä. Koraanin sisältö ei myöskään rajoitu vain uskonnollisiin kysymyksiin, vaan siinä annetaan ohjeita myös ihan arkiseen elämään. Siitä löytyvien eettisten ja yhteiskunnallisten ohjeiden takia Koraani toimiikin islaminuskon lainsäädännön ja etiikan tärkeimpänä lähteenä."
+                    ]
+                },
+                {
+                    "content": [
+                        "Pelkän koraanin läsnäolon uskotaan suovan siunauksen, eli koraaniin lukemista pidetään pyhänä itsessään. Tämän vuoksi koraania luetaan ääneen, ja sitä pidetään luettaessa sylissä tai sille erityisesti tarkoitetussa lukutelineessä. Koraanin lukemiselle olennaista on myös sen resitointi, eli laulaen lukeminen. "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fun-fact",
+            "title": "Mitä yhteisiä ja erityisiä piirteitä eri uskontojen pyhillä",
+            "page": 14,
+            "sections": [
+                {
+                    "content": [
+                        "Kaikissa uskonnoissa kirja on pyhä"
+                    ]
+                },
+                {
+                    "content": [
+                        "Uskontojen kirjoja voidaan jokaista tulkita eri tavoilla"
+                    ]
+                },
+                {
+                    "content": [
+                        "Tanak ja Raamattu sisältävät molemmat saman Vanhan testamentin. Raamatussa on sen lisäksi myös Uusi testamentti. Raamatussa ja heprealaisessa raamatussa on siis paljon samoja tarinoita. Yllättäen myös islamin Koraanissa esiintyy monia Raamatusta tuttuja hahmoja, kuten Abraham, Mooses, Maria ja jopa Jeesus."
+                    ]
+                },
+                {
+                    "content": [
+                        "Heprealaisen raamatun osat esiintyvät usein käärönä"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "page-breaker",
+            "title": "Kolmas etappi",
+            "page": 15,
+            "sections": [
+                {
+                    "title": "Jumala"
+                }
+            ]
+        },
+        {
+            "title": "Kristinusko",
+            "page": 16,
+            "sections": [
+                {
+                    "content": [
+                        "Kristinuskon mukaan todellisuudessa on vain yksi Jumala eli jumalakäsitys on monoteistinen ja tarkemmin kolmiyhteinen. Jumala on yksi mutta samanaikaisesti kolme persoonaa: Isä, Poika ja Pyhä Henki eli Jumala on kolmen persoonan ikuinen yhteys. Eri persoonat korostuvat Jumalan toiminnassa eri tavoin, esim. Isänä Jumalan ajatellaan olevan maailman luoja ja kaiken hallitsija. Poikana hän on mm. pelastaja, syntien sovittaja ja opettaja. Pyhänä Henkenä hän on puolestaan uskon antaja, ihmisen pyhittäjä ja kristittyjen yhteisön yhdistäjä. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Abrahamilaisissa uskonnoissa uskotaan itsensä ilmoittavaan Jumalaan. Jumala on itse aktiivinen ja ottaa yhteyttä ihmiseen. Prosessia, jossa Jumala paljastaa itsestään asioita ihmisille, kutsutaan ilmoitukseksi. Kristinuskossa ajatellaan, että ihminen voi aavistaa jotain Jumalasta yleisen ilmoituksen esimerkiksi luonnon ihmeellisyyden perusteella. Tunteakseen pelastavan Jumalan ihminen tarvitsee erityistä ilmoitusta, jonka Jumala on antanut ihmisille mm. profeettojen välityksellä sekä tulemalla itse ihmiseksi, Jeesukseksi."
+                    ]
+                },
+                {
+                    "content": [
+                        "Kristinuskossa ajatellaan, että Jumala on pyhä ja Jumalaa pidetään isänä ja rakkautena. Ilmaus Herra tarkoittaa Jumalan olevan ihmisen elämän ohjaaja, jonka tahtoa ihmisen tulisi noudattaa. Hän on tuonpuoleinen ja toisenlainen ihmiseen verrattuna, ja ihmisen tulee pelätä ja kunnioittaa häntä. Toisaalta Jumalan ajatellaan olevan täynnä armoa ja anteeksiantavaisuutta sekä kaiken inhimillisen rakkauden lähtökohta. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Silmä kuvaa Jumalan kaikkinäkevää silmää ja kolmio kristinuskon kolminaisuusoppia."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Juutalaisuus",
+            "page": 17,
+            "sections": [
+                {
+                    "content": [
+                        "Jahve"
+                    ]
+                },
+                {
+                    "content": [
+                        "Juutalaisuudessa on yksi jumala eli jahve, mikä tarkoittaa, että juutalaisuus on monoteistinen uskonto. Tämä ilmenee hyvin juutalaisuuden keskeisimmässä rukouksessa ja uskontunnuksessa, šemassa: “Kuule Israel! Herra, meidän jumalamme, Herra, on yksi!”"
+                    ]
+                },
+                {
+                    "content": [
+                        "Jahve ilmestyi Moosekselle ensimmäisen kerran Midianissa, mistä on päätelty, että Jahve olisi alunperin ollut midianilaisten soturijumala ja tulivuoren jumala. Tämä kuitenkin muuttui, kun israelilaiset alkoivat palvoa häntä muiden jumalien sijasta"
+                    ]
+                },
+                {
+                    "content": [
+                        "Juutalaisuudessa jumalaa pidetään korkeampana olentona eli jumala on yksi jakamaton, rajaton, vailla aineellista ruumista, alkua tai loppua, ja hänestä ei saa eikä voi tehdä kuvaa."
+                    ]
+                },
+                {
+                    "content": [
+                        "Juutalaisuudessa jumala on pyhä sekä hänen nimensä on pyhä. Tanakissa jumalasta käytetään nelikirjaimista erisnimeä JHWH, jonka alkuperäinen ääntämistapa tutkijoiden mukaan on ollut Jahve. Tämä nimi on erittäin pyhä, mikä tarkoittaa ettei sitä saa koskaan sanoa ääneen. Tämä sääntö perustuu kymmenen käskyn tulkintaan, joista kolmas kieltää Jahven nimen väärinkäyttämisen. Ajan kanssa ihmiset alkoivat uskoa, että kielto koski kaikkea turhaa lausumista, mistä seurasi Jahven nimen lausumisen loppuminen kokonaan. Jahve nimen sijaan jumalalle keksittiin kiertoilmaisuja, kuten Herra ja Elohim."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Islam",
+            "page": 18,
+            "sections": [
+                {
+                    "content": [
+                        "Islamin tärkein oppi on monoteistinen usko yhteen jumalaan jumalaan. Islamissa jumala usein tunnetaan nimellä Allah, mutta nimi on enemmän yleisnimitys Jumalalle, jota muutkin uskonnot saattavat arabian kielessä käyttää. Islamissa jumalan nimityksellä ei oikeastaan ole niinkään paljon väliä, ja esimerkiksi ihan suomenkielisen käsitteen Jumala käyttäminen on islamissa ihan okei."
+                    ]
+                },
+                {
+                    "content": [
+                        "Muiden abrahamilaisten uskontojen tavoin Jumala on täydellinen kaiken luonut ja kaiken yläpuolella oleva henkilö. Jumala kuitenkin itse on tuolla puolen, eikä ihminen siksi pysty ikinä käsittämään tätä täydellisesti. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Islaminuskon Jumalakäsitykselle olennaista on kuvakielto. Toisin kuin ihminen, Jumala on täydellinen, ja siksi ihminen ei voi eikä saa tehdä hänestä kuvaa. Sama kuvakielto pätee Islamissa myös muihin pyhiin henkilöhahmoihin, kuten esimerkiksi enkeleihin ja profeettoihin. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Islaminuskosta mielenkiintoinen näkökulma on predestinaatio, eli käsitys siitä että kaikki elämä olisi ennaltamääritelty Jumalan toimesta. Toisaalta, kaikki olisivat silti vastuussa omasta kohtalostaan. Enemmistö muslimeista uskoo, että sekä predestinaatio ja oma tahto ovat molemmat tavallaan totta."
+                    ]
+                },
+                {
+                    "content": [
+                        "Islamissa Jumalaa kuvataan muiden abrahamilaisten uskontojen tavoin “armollisena” sekä “oikeudenmukaisena”. Silmiinpistävä ero on kuitenkin “alistaja”, mikä negatiivisesta sävystään huolimatta on osa Islamin uskontoa; Ihmisen alistuminen Jumalan tahtoon on yksi Islamin peruspilareista. "
+                    ]
+                },
+                {
+                    "content": [
+                        "kuvakiellosta johtuen moskeijia usein koristetaan abstraktilla kuviotaiteella"
+                    ],
+                    "image": {
+                        "size": [
+                            250,
+                            150
+                        ],
+                        "url": "./assets/img/moskeija.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "page-breaker",
+            "page": 19,
+            "title": "Nejljäs etappi",
+            "sections": [
+                {
+                    "title": "Oppi vastauksena elämänkysymyksiin"
+                }
+            ]
+        },
+        {
+            "title": "Kristinusko - Mikä tekee ihmisestä ihmisen?",
+            "page": 20,
+            "sections": [
+                {
+                    "content": [
+                        "Kristinuskossa käsitykset pelastuksesta sekä ihmisestä nivoutuvat toisiinsa, esim. ihminen on Jumalan luomana arvokas. Kristinuskon mukaan Jumala on luonut ihmisen elämään yhteydessään, mutta yhteyden katkettua ihminen tarvitsee Jumalan pelastusta. Pelastuksella tarkoitetaan tuonpuoleista, kuolemanjälkeistä elämää sekä maanpäällistä elämää yhteydessä Jumalaan. Pelastus vaikuttaa jo maanpäällisessä elämässä siihen, että ihminen voi elää hyvää elämää suhteessa Jumalaan, toisiin ihmisiin ja luontoon. Kristitty pelastuu Jeesuksen ristinkuolemaan ja ylösnousemukseen turvautumalla. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Kristinuskossa pelastunut saa kuoleman jälkeen ikuisen elämän taivaassa Jumalan yhteydessä. Taivas on ylösnousemuksen jälkeinen tila, missä ihminen kokee Jumalan täydellisen läsnäolon ja rakkauden ilman syntiä tai kärsimystä. Sanotaan, että taivaassa ihminen näkee Jumalan “kasvoista kasvoihin”."
+                    ]
+                },
+                {
+                    "content": [
+                        "Kaikki, minkä tahdotte ihmisten tekevän teille, tehkää te heille."
+                    ]
+                },
+                {
+                    "content": [
+                        "- kultainen sääntö (Matt. 7:12)"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Juutalaisuus - Mikä tekee ihmisestä ihmisen?",
+            "page": 21,
+            "sections": [
+                {
+                    "content": [
+                        "Juutalaisuudessa uskotaan, että ihminen on luotu jumalan kuvaksi. Tämä tieto esitetään luomiskertomuksessa, josta syntiinlankeemuskertomuksen kanssa muodostuu juutalaisten ihmiskäsitys. Nämä tarinat muodostavat pohjan tärkeille kysymyksille kuten: miksi ihminen kärsii ja kuolee tai miksi ihminen tarvitsee Jumalaa. Ihminen on kykenevä tekemään hyviä ja pahoja tekoja, mutta juutalaisuuden mukaan ihminen on pohjimmiltaan hyvä, vaikkakin taipuvainen pahaan. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Ja nyt -- näin sanoo Herra, joka sinut loi, Jaakob, joka sinut muovasi, Israel: - Älä pelkää. Minä olen lunastanut sinut. Minä olen sinut nimeltä kutsunut, sinä olet minun."
+                    ]
+                },
+                {
+                    "content": [
+                        "- Tanak Jesajan kirja 43:1"
+                    ]
+                },
+                {
+                    "content": [
+                        "“Pelastus” juutalaisuudessa ei tarkoita yksittäisen henkilön vapautumista ja synneistään puhdistautumista. Pelastumisella viitataan enemmänkin koko Israelin kansan vapautumiseen eksiilistä, maanpaosta tai pakkosiirtolaisuudesta ja lopulta paluuseen omaan maahansa. Eksiili voidaan tulkita myös ihmiskunnan etääntymisenä Jumalan läheisyydestä ja tahdosta. Tästä syystä juutalaisten tulee noudattaa Tooran käskyjä eli mitsvoja ja olemaan uskollinen Jumalalle. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Tuonpuoleisesta eli tulevasta maasta ei otetan niinkään kantaa juutalaisuudessa. Uskotaan, että kaikki ihmiset uskonnosta riippumatta pelastuvat ja pääsevät taivaaseen. Tästä on kuitenkin loppujen lopuksi vastuussa Jumala, joka tekee viimeisen päätöksen pelastuuko henkilö vaiko ei. Ihmiset ovat kuitenkin kykeneväisiä vaikuttamaan päätökseen elämänvalinnoillaan, mutta pelastuminen perustuu kuintenkin Jumalan armollisuuteen. "
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Islam - Mikä tekee ihmisestä ihmisen?",
+            "page": 22,
+            "sections": [
+                {
+                    "content": [
+                        "Islamissa uskotaan siihen, että jumala on luonut kaiken, eli myös ihmisen itsessään. Riippuen kuinka paljon painoarvoa pedestrinaatiolle antaa, ihmisellä kuitenkin oma tahto ja vastuu toiminnastaan ja siten kyky tehdä syntiä. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Mutta ne, jotka kääntyvät Jumalan puoleen ja uskovat ja jotka suorittavat hyviä tekoja, saavat astua puutarhaan, eikä heille tehdä pienintäkään vääryyttä."
+                    ]
+                },
+                {
+                    "content": [
+                        "- Koraani 19:60"
+                    ]
+                },
+                {
+                    "content": [
+                        "Islaminuskossa usko tuonpuoleiseen elämään kulminoituu tuomiopäivän ympärille. Tänä päivänä Allah herättää kaikki ikinä eläneet ihmiset viimeistä tuomiota varten. Ihmisen toiminta elämänsä aikana määrittää tämän kuolemanjälkeisen elämän. Voidakseen pelastua, ihmisen tulee katua pahoja tekojaan eli syntiä ja alistua jumalan tahtoon. Näin hän voi päästä taivaaseen, joka koostuu Islaminuskossa monista tasoista. Mille tasolle ihminen sitten pääsee määräytyy hänen elämänsä perusteella, ja pelkästään alinta tasoa kuvataan äärettömän paljon elämää paremmaksi paikaksi, jossa mitään negatiivista ei ole olemassakaan."
+                    ]
+                },
+                {
+                    "content": [
+                        "Kääntöpuolena taivaalle Islamista löytyy käsitys helvetistä. Ihmiset erotellaan tuomiopäivänä kapean sillan ylityksellä. Siinä missä hyvää tehneet sielut kulkevat siltaa pitkin taivaaseen, syntiset sielut putoavat alas helvettiin. Helvetin varsinainen tarkoitus on toimia rangaistuksena pahoille sieluille, mutta käsitys siitä onko helvetti tilapäinen vai ikuinen on kiistanalainen asia Islamissa. Jumala on armollinen, mutta ei kuitenkaan anna anteeksi esimerkiksi muiden Jumalien palvomista."
+                    ]
+                },
+                {
+                    "content": [
+                        "Kukaan teistä ei ole uskovainen niin kauan kuin hän ei toivo veljelleen sitä, mitä hän toivoo itselleen."
+                    ]
+                },
+                {
+                    "content": [
+                        "- kultainen sääntö"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miten uskonnot vastaavat ihmisen perimmäisiin kysymyksiin ja mitä ohjeita ne antavat kannattajilleen?",
+            "page": 23,
+            "sections": [
+                {
+                    "content": [
+                        "Toora antaa käskyjä, jotka ohjaavat hyvään elämään."
+                    ]
+                },
+                {
+                    "content": [
+                        "Kristinuskossa kultainen sääntö, rakkauden kaksoiskäsky ja 10 käskyä ohjaavat Jumalan tahtoiseen elämäntapaan. Kristinuskossa kaikki jotka hyväksyvät Jumalan, pääsevät taivaaseen."
+                    ]
+                },
+                {
+                    "content": [
+                        "Koraanistakin löytyy kristinuskosta tuttu kultainen sääntö, joka on kirjoitettu vain eri sanoilla, mutta tarkoitus on sama. Islamissa, jos ihminen elää Jumalan tahtojen myötäisesti ja katuu syntejään, voi hän päästä kuoleman jälkeen taivaaseen."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "page-breaker",
+            "title": "Viides etappi",
+            "page": 24,
+            "sections": [
+                {
+                    "title": "Uskonto yksilöiden elämässä"
+                }
+            ]
+        },
+        {
+            "title": "Kristinusko",
+            "page": 25,
+            "sections": [
+                {
+                    "content": [
+                        "Kristinuskon riitit eli uskonnolliset toimitukset voidaan jakaa ainakin kolmeen pääryhmään: kalendaaririitteihin, siirtymäriitteihin ja kriisiriitteihin. Kalendaaririitit ovat säännönmukaisesti toistuvia seremonioita kuten joulun, uuden vuoden, pääsiäisen tai juhannuksen juhlintaa. Siirtymäriitit puolestaan liittyvät henkilön siirtymiseen elämänvaiheesta toiseen tai uuteen asemaan yhteisössä. Näitä ovat esim. kaste, konfirmaatio, ylioppilasjuhlat, avioliittoon vihkiminen ja hautajaiset. Kriisiriitit liittyvät yllättäviin ja epäsuotuisiin tapahtumiin elämässä kuten läheisen menettämiseen tai onnettomuuksiin. Kriisiriitti voi olla esim. hiljainen hetki tai rukoileminen. Kriisiriittien avulla henkilö voi saada apua tilanteen ohi pääsemiseen ja kestämiseen ja ne tuovat sujuvuutta muutoksiin. "
+                    ]
+                },
+                {
+                    "content": [
+                        "Kun lapsi on syntynyt, nimi täytyy virallistaa vähintään 3 kuukauden sisällä. Ristiäiset järjestetään yleensä kastamalla lapsi. Kaste on seurakunnan juhla, jossa henkilö kastetaan vedellä valellen ja samalla hänet yleensä liitetään myös seurakunnan jäseneksi."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/kaste.jpg"
+                    }
+                },
+                {
+                    "content": [
+                        "Kun lapsi kasvaa, hän voi evankelis-luterilaisen rippikoulun käyneenä tulla konfirmoiduksi. Konfirmaatiossa nuori tunnustautuu kristityksi ja seurakunnan jäsenestä tulee itsenäinen kirkon jäsen. Rippikoulu antaa oikeuden esim. toimia kummina, osallistua ehtoolliselle ja kirkolliseen avioliittoon vihkimisen. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Kun nuori on päättänyt yläkoulun, hän voi jatkaa opiskelujaan esim. lukiossa. Lukion päätteeksi henkilö suorittaa ylioppilastutkinnon ja hän valmistuu sieltä ylioppilaaksi. Ylioppilasjuhlia pidetään siirtymäriittinä, sillä henkilö on suorittanut ensimmäisen ja toisen asteen koulutuksen ja yksilölle on siten tapahtunut muutos yhteisörakenteessa sekä elämänvaiheessa. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/yo.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Kristinusko jatkuu",
+            "page": 26,
+            "sections": [
+                {
+                    "content": [
+                        "Hieman vanhempana kaksi kirkon jäsentä voivat saada kirkkohäät, missä heidät vihitään aviopuolisoiksi. Vihkijänä toimii evankelis-luterilaisessa kirkossa pappi. Avioliitto on parisuhdemuoto, joka määritellään Suomen avioliittolaissa kahden henkilön väliseksi liitoksi. Liitto vahvistetaan vihkimällä. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/haat.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Ihmisen kuoleman vuoksi järjestetään hautajaiset, jotka järjestetään hautauksen yhteydessä. Suomen evankelis-luterilaisen kirkon järjestyksen mukaan hautaan siunaaminen voi tapahtua esim. kirkossa, haudalla tai vainajan kotona ja siunaamisen toimittaa aina pappi. Hautauksessa ihmiselle annetaan lopullinen lepopaikka ja se voi tapahtua esim. maahan hautaamisella, tuhkaamisella tai merihautauksella. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/hautajaiet.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Papin arkipukuna toimii tavanomainen musta puku, jonka kanssa käytetään pantapaitaa. Asu vakiintui käyttöön 1970-luvulla. Nimestä huolimatta arkipukua käytetään myös eri pyhinä. Arkitöissä ja leireillä papit voivat käyttää pantapaitaa myös ei niin juhlallisten vaatteiden kanssa tai täysin siviilivaatteita. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/pappi.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Jumalanpalveluksissa papilla on päällä liturginen asu. Siihen kuuluu alba ja niskan takaa kummankin olkapään yli eteen asetettava stola. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Kristinusko jatkuu",
+            "page": 27,
+            "sections": [
+                {
+                    "content": [
+                        "Messussa ehtoollisen toimittava pappi eli liturgi pukeutuu yleensä kasukkaan, joka on iso telttamainen vaatekappale, jonka keskellä on kaula-aukko. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/liturgi.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Juutalaisuus",
+            "page": 28,
+            "sections": [
+                {
+                    "content": [
+                        "Valoa. Viimein valoa. Olet syntynyt. Äitisi pitelee sinua sylissään, kun availet silmiäsi ensimmäistä kertaa ja huudat kuin olisit lyönyt varpaasi. Ainoa asia, mikä määrittää tällä hetkellä tulevan on sinun sukupuolesi. Mikäli olet siunattu urospuoliseksi, sinua odottaa kahdeksan päivän päästä tapahtuma brit mila eli ympärileikkaus. Tämän riitin tarkoitus on liittää sinut juutalaiseen yhteisöön ja luoda liitto Jumalan kanssa. Mutta entä jos satutkin olemaan siunattu naisellisilla piirteillä, odottaa sinua vain siunaus, ja ehkäpä jopa nimenantojuhla synagogassa jumalanpalveluksen yhteydessä."
+                    ]
+                },
+                {
+                    "content": [
+                        "Etkö ole vieläkään saanut selville sukupuoltasi? No, ei se mitään. Selitän sinulle siis jälleen molempien osapuolten seuraavan askeleen, eli juhla jossa sinusta tulee uskonnollisesti täysi-ikäinen. Tällä kertaa mikäli olet tyttö, pääset osallistumaan varsin uudehkoon juhlaan nimeltä Bat mitsva. Juhlassa tyttö pääsee lukemaan Tooraa ääneen synagogassa. Pojille taas tämä juhla on nimeltään Bar mitsva. Tässä juhlassa poika saa kunnian toimia esilukijana synagogassa. Nyt olet tarpeeksi vanha noudattamaan itsenäisesti lain määräyksiä."
+                    ]
+                },
+                {
+                    "content": [
+                        "Psst. Hei! Jos satuit syntymään tytöksi, niin sinun olisi hyvä tietää puhdistautumisesta mikve-altaassa. Tosiaan, siis tämä ei ole pelkästään naisille, sillä mikve ei ole pelkkää peseytymistä varten vaan rituaalista puhdistautumista varten. Mikvessä käydään yleensä kuukautisten jälkeen, ennen avioliittoon vihkintää ja uudet astiat puhdistetaan siellä myös, että ne voidaan ottaa käyttöön."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Juutalaisuus jatkuu",
+            "page": 29,
+            "sections": [
+                {
+                    "content": [
+                        "Onneksi olkoon olet löytänyt toisen henkilön jota rakastat. Katso kuitenkin, ettette ryhdy liian intiimiksi, sitä varten tulee mennä ensin naimisiin. Ai nyt jo? No sehän oli nopeaa. Noh, kerran olette sitä jo suunnitelleet, niin pitäähän siitä hieman kertoa. Avioliittoon vihkiminen on hyvin tärkeä tapahtuma. Yleensä vihkiminen suoritetaan hääkatoksen, chupan, alla joko synagogassa, kodissa tai ulkona. Rabbi tai jokin muu seurakunnan työntekijä saa kunnian toimia vihkijänä. Sormuksen antaminen, viinimaljasta maistaminen, maljan polkeminen rikki ja avioliittosopimuksen allekirjoittaminen kuuluvat yleensä vihkimisseremoniaan. Tavat kuitenkin vaihtelevat maiden ja suuntausten mukaan."
+                    ]
+                },
+                {
+                    "content": [
+                        "Oletko tietoinen muista juutalaisen yhteiskunnan perus riiteistä? Et? Ei hätää, annan sinulle hieman esimerkkejä. Juutalaisten kulttuuriin kuuluu muun muassa rukoileminen, minkä voi tehdä yhdessä tai yksin, ruoka- ja sapattisäädökset, jumalanpalvelukset synagogassa, paaston viettäminen, jonka aikana on tarkoitus ilmentää katumusta ja surua, sekä pyhiinvaellus Jerusalemin Itkumuurille."
+                    ]
+                },
+                {
+                    "content": [
+                        "On tullut aikasi mennä. Et halua päästää irti tästä kauniista maailmasta, johon olen syntynyt, jossa sinua rakastetaan, jossa sinä rakastat, mutta aikasi on tullut. Katsot vaimoasi vielä viimeisen kerran ja sanot: “Miten sainkaan sinut omakseni?”. Hän hymyilee ja viimein tunnet itsesi valmiiksi, olet onnellinen. Suljet silmäsi. Elämäsi on nyt Jumalan käsissä. Pian kuolemasi jälkeen sinut haudataan seremonian kera. Seremoniassa sinut siunataan, sinun puolestasi rukoillaan ja sinulta pyydetään anteeksi kaikkea väärää, mitä olet joutunut kokemaan. Näin sinut on haudattu, mutta muistoasi kunnioitetaan aina kuolemasi vuosipäivänä sekä muutamina pyhäpäivinä kadiš-rukouksella. Onneksi olkoon, olet elänyt kauniin juutalaisen elämän."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Islam",
+            "page": 30,
+            "sections": [
+                {
+                    "title": "Ramadan",
+                    "content": [
+                        "Joka vuosi islamissa on ramadankuukausi. Sen aikana muslimit paastoavat eli pidättäytyvät ruuasta, juomasta, seksuaalisesta kanssakäymisestä ja tupakoinnista joka päivä auringon noususta auringon laskuun. Yön aikana paastoon tulee tauko, jolloin he voivat aterioida. Ramadan päätetään aina Id-Al-Fitr -juhlaa, joka kestää kolme päivää. Se aloitetaan yhteisellä rukouksella, ja silloin muslimit juhlivat syömällä hyvää ruokaa, tapaamalla ystäviä ja sukulaisia ja antamalla lahjoja."
+                    ]
+                },
+                {
+                    "content": [
+                        "Jokaisen muslimin täytyy elämänsä aikaan suorittaa vähintään kerran vuosittain järjestettävä hajj eli pyhiinvaellus Mekkaan. Pyhiinvaellus aloitetaan Kaaban temppeliltä, joka on islamin pyhin paikka. Ihmiset kiertävät Kaaban mustaa kiveä, ja pyrkivät suutelemaan tai koskettamaan sitä. Kun pyhiinvaeltajat laskeutuvat Arafatvuorelta, alkaa "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "title": "Id-Al-Adha -juhla, eli uhrijuhla.",
+                    "content": [
+                        "Vastasyntyneen lapsen korvaan kuiskataan šahada eli islamilainen uskontunnustus. Avioliiton solmimiseen ei islamissa tarvita muuta kuin nikah eli avioliittosopimus sulhasen ja vaimon välillä. Islamissa miehellä voi myös olla peräti neljä vaimoa samaan aikaan. Juuri ennen kuolemista, muslimin korvaan kuiskataan taas uskontunnustus. Kuoleman jälkeen hautajaiset pyritään järjestämään mahdollisimman nopeasti. Vainajan ruumis lasketaan hautaan ilman arkkua, oikealle kyljelleen, kasvot kohti Mekkaa."
+                    ]
+                },
+                {
+                    "content": [
+                        "Muita islamilaisessa arjessa näkyviä asioita ovat muun muassa se, että muslimit rukoilevat viidesti päivässä. Rukousta ennen muslimin täytyy ensin puhdistautua. Rukoukset suoritetaan myös aina kohti Mekkaa. Perjantaisin keskipäivällä muslimit kokoontuvat yhteiselle ruokoushetkelle moskeijaan. "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "page-breaker",
+            "title": "Kuudes etappi",
+            "page": 31,
+            "sections": [
+                {
+                    "title": "Aineellinen ulottuvuus"
+                }
+            ]
+        },
+        {
+            "title": "Kristinusko",
+            "page": 32,
+            "sections": [
+                {
+                    "content": [
+                        "Jerusalem on pyhä paikka kristinuskolle, sillä Golgatan mäki ja Pyhän haudan kirkko ovat tärkeitä pyhiinvaelluskohteita Jeesuksen kuoleman ja ylösnousemuksen paikkoina."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Luterilaisen kirkon sisältä löytyy esimerkiksi alttari, saarnastuoli, urut ja patsaita pyhistä ihmisistä. Ulkoa luterilaisen kirkon voi tunnistaa mm. katolla tai kellotapulin päällä olevasta rististä. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Raamattu on kristittyjen pyhä kirja. Raamatun teksteissä kuullaan Jumalan puhuttelua sekä haetaan oikeaa tapaa elää ihmisenä ja yhteisönä. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Kristinuskon pääsymboli on risti ja se tulee Jeesuksen ristiinnaulitsemisesta. Rippiristi on perinteinen rippilahja, jonka jokainen konfirmoitu käytännössä saa. "
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Juutalaisuus",
+            "page": 33,
+            "sections": [
+                {
+                    "content": [
+                        "Länsimuuri toisilta nimiltään Itkumuuri tai Valitusmuuri on temppelivuoren jälkeen Jerusalemissa juutalaisten pyhin paikka johon voi tulla rukoilemaan"
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Kipa on juutalaisten käyttämä ohut, pyöreä kalotin tapainen päähine. Sitä käyttävät yleensä juutalaiset miehet rukoillessaan."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Synagogat ovat juutalaisille erittäin tärkeitä yhteisöllisiä rakennuksia, joissa järjestetään jumalanpalveluksia, rukoushetkiä, opetus- ja kerhotoimintaa."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Daavidin tähti on juutalaisuuden tunnus. Se koostuu kahdesta päällekkäisestä kolmiosta muodostaen kuusisakaraisen tähden muodon."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Juutalaisuus jatkuu",
+            "page": 34,
+            "sections": [
+                {
+                    "content": [
+                        "Rabbi tai rabbiini on juutalaisuudessa viisas henkilö, opettaja, kirjaimellisesti “suuri (henkilö)”. Nykyään rabin rooliin kuuluu seurakunnan edustaminen ulkopuolelle ja jumalanpalveluksissa toimiminen."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Islam",
+            "page": 35,
+            "sections": [
+                {
+                    "content": [
+                        "Koraani on Islaminuskon pyhin teos, jonka alkuperän uskotaan olevan suoraan taivaasta. Koraanista voidaa.n nähdä Islaminuskon kertomuksellisuus"
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Moskeijat ovat olennainen osa islaminuskoa. Termi ‘moskeija’ tarkoittaa rukouspaikkaa, jona moskeijat muslimeille toimivat. Moskeijasta löytyy peseytymistilojen ja rukousmattojen lisäksi yksi tai useampi Minareetti, josta rukoukset kuulutetaan."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "Muslimin yksi velvollisuuksista on pyhiinvaellus mekkaan. Lisäksi rukouksien aikana aina kumarretaan mekkaan päin."
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "content": [
+                        "todo"
+                    ],
+                    "image": {
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "page-breaker",
+            "title": "Seitsemän etappi",
+            "page": 36,
+            "sections": [
+                {
+                    "title": "Muuta äärimmäisen tärkeää"
+                }
+            ]
+        },
+        {
+            "id": "table-of-contents",
+            "title": "Meemuja",
+            "page": 38,
+            "sections": [
+                {
+                    "image": {
+                        "size": [
+                            400,
+                            300
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "image": {
+                        "size": [
+                            400,
+                            300
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                },
+                {
+                    "image": {
+                        "size": [
+                            400,
+                            300
+                        ],
+                        "url": "./assets/img/placeholder.png"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "table-of-contents",
+            "title": "Lähteet",
+            "page": 39,
+            "sections": [
+                {
+                    "title": "Sisältö",
+                    "content": [
+                        "https://fi.wikipedia.org/wiki/Kipa",
+                        "https://fi.wikipedia.org/wiki/L%C3%A4nsimuuri",
+                        "https://fi.wikipedia.org/wiki/Sakramentti#Evankelis-luterilaisen_kirkon_sakramentit",
+                        "https://evl.fi/tutki-uskoa/kirjat/raamattu",
+                        "https://fi.wikipedia.org/wiki/Riitti",
+                        "https://evl.fi/perhejuhlat/ristiaiset/ristiaisten-jarjestaminen",
+                        "https://fi.wikipedia.org/wiki/Kaaba",
+                        "https://fi.eferrit.com/bat-mitzvahin-seremonia-ja-juhla/",
+                        "https://app.studeo.fi/app/course/105217/section/28533"
+                    ]
+                },
+                {
+                    "title": "Kuvat",
+                    "content": [
+                        "https://fi.wikipedia.org/wiki/Jahve",
+                        "https://fi.wikipedia.org/wiki/Kipa",
+                        "https://fi.wikipedia.org/wiki/Rabbi",
+                        "https://fi.wikipedia.org/wiki/Daavidint%C3%A4hti",
+                        "https://fi.wikipedia.org/wiki/Synagoga",
+                        "https://www.google.com/search?q=juutalaisuus+t%C3%A4rke%C3%A4t+asiat&rlz=1C1GCEB_enFI966FI966&oq=juutalaisuus+t%C3%A4rke%C3%A4t+asiat&aqs=chrome..69i57j0i546.41952j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on "
                     ]
                 }
             ]
